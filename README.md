@@ -9,3 +9,5 @@ Assembly animation:
 
 
 <img width="372" height="627" alt="image" src="https://github.com/user-attachments/assets/a9933685-138a-4e13-a37e-3a1be0a1b4b0" />
+
+<img width="743" height="674" alt="image" src="https://github.com/user-attachments/assets/24a6440d-8953-4374-8995-8a4c4cb0be13" />
