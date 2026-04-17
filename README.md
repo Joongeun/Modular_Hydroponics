@@ -1,5 +1,6 @@
 # Modular_Hydroponics
 Building a modular hydroponics system equipped with sensors for data collection and automated watering for Berkeley's Vertical Farming Club. 
+
 <img width="372" height="627" alt="image" src="https://github.com/user-attachments/assets/a9933685-138a-4e13-a37e-3a1be0a1b4b0" />
 
 
